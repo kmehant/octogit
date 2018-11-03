@@ -1,4 +1,6 @@
 {
-	"dependencies": {
-	}
+  "dependencies": {
+    "com.unity.cinemachine": "2.2.7",
+    "com.unity.ads": "2.0.8"
+  }
 }
