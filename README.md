@@ -3,8 +3,7 @@
 
 ## ABOUT
 
-This repository contains the 2D character of Octocat of GitHub. The character can be used in unity projects.
-Octocat sprite has idle, run and jump animations.
+This repository contains the 2D player of Octocat of GitHub. Which is made for Unity Game engine and is fully playable with idle, run and jump animations. It also includes a sample scene
 
 ## Contributions
  Your contributions are always welcomed. You can create an issue if you find one. Please disscuss by creating an issue if you
