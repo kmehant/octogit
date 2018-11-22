@@ -12,4 +12,6 @@ That's it just `fork` and `clone` the repo and open a sample scene.
 
 ## Contributions
  Your contributions are always welcomed. You can create an issue if you find one. Please discuss by creating an issue if you
- want to further add a feature to this repo.
+ want to further add a feature to this repo. 
+ 
+ *"Why dont you try something awesome with this cute character"*
